@@ -1,1 +1,1 @@
-# Data research and analysis on Pewlett Hackard (fictional company with randomly generated data) employees from the 1980's and 1990's utilzing PostgreSQL and PGAdmin
+# Corporate human resources data extraction and analysis utilizing PostgreSQL and PGAdmin
